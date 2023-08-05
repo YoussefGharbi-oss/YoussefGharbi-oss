@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gharbi Youssef</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate  developer  from Tunisia</h3>
 <img align="right alt="coding" width="400"  src="![image](https://github.com/YoussefGharbi-oss/YoussefGharbi-oss/assets/114174520/0074c00d-7d1a-4859-bff0-6f7b9c60be44)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefgharbi-oss&label=Profile%20views&color=0e75b6&style=flat" alt="youssefgharbi-oss" /> </p>
 
