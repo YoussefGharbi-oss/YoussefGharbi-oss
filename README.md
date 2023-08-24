@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Opus-Lab Website**
 
-- 🌱 I’m currently learning **Next,typeScripte**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **javaScript,Html,CSS,JS,Tailwindn,C,Python ,ReactJs , NextJs ,**
 
