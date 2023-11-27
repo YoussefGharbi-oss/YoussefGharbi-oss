@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **javaScript,Html,CSS,JS,Tailwindn,C,Python ,ReactJs , NextJs ,**
+- 💬 Ask me about **javaScript,Html,CSS,JAVA,Tailwindn,C,Python ,ReactJs , NextJs ,TypeScript , UML **
 
 - 📫 How to reach me **youssef.gharbi@esen.tn**
 
